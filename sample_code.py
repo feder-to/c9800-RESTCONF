@@ -1,6 +1,6 @@
 import json
-import getApInfo04 as AP
-import getClientInfo05 as CL
+import getApInfo as AP
+import getClientInfo as CL
 
 print("### Fail pattern AP summary info by AP name and slot Id  ###")
 ap_info = AP.get_ap_info_by_ap_name_slot_id("CCCC9120AXI",0)
