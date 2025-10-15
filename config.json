@@ -1,9 +1,0 @@
-{
-    "user" : "admin",
-    "password" : "33519CeSIA",
-    "base_url" : "https://172.30.39.241/restconf/data",
-    "ap_oper" : "/Cisco-IOS-XE-wireless-access-point-oper:access-point-oper-data",
-    "wlan_config" : "/Cisco-IOS-XE-wireless-wlan-cfg:wlan-cfg-data",
-    "rrm_oper" : "/Cisco-IOS-XE-wireless-rrm-oper:rrm-oper-data",
-    "client_oper" : "/Cisco-IOS-XE-wireless-client-oper:client-oper-data"
-}
